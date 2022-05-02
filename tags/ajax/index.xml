@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ajax on Portafolio in HUGO.386</title>
+    <link>https://cristo-conklin.github.io/portafol.io386/tags/ajax/</link>
+    <description>Recent content in ajax on Portafolio in HUGO.386</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 02 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://cristo-conklin.github.io/portafol.io386/tags/ajax/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>acms</title>
+      <link>https://cristo-conklin.github.io/portafol.io386/portafolio/acms/</link>
+      <pubDate>Wed, 02 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cristo-conklin.github.io/portafol.io386/portafolio/acms/</guid>
+      <description>aCMS MIA - the ajax CMS w Bootstrap template (SEO compatible)
+github.</description>
+    </item>
+    
+  </channel>
+</rss>
