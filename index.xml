@@ -1,65 +1,10 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Portafolio in HUGO.386</title>
-    <link>https://cristo-conklin.github.io/portafol.io386/</link>
-    <description>Recent content on Portafolio in HUGO.386</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Wed, 02 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://cristo-conklin.github.io/portafol.io386/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>acms</title>
-      <link>https://cristo-conklin.github.io/portafol.io386/portafolio/acms/</link>
-      <pubDate>Wed, 02 Feb 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://cristo-conklin.github.io/portafol.io386/portafolio/acms/</guid>
-      <description>aCMS MIA - the ajax CMS w Bootstrap template (SEO compatible)
-github.</description>
-    </item>
-    
-    <item>
-      <title>FlowGuru</title>
-      <link>https://cristo-conklin.github.io/portafol.io386/portafolio/flowman/</link>
-      <pubDate>Wed, 02 Feb 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://cristo-conklin.github.io/portafol.io386/portafolio/flowman/</guid>
-      <description>flowman
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Portafolio in HUGO.386</title><link>https://cristo-conklin.github.io/portafol.io386/</link><description>Recent content on Portafolio in HUGO.386</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 03 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://cristo-conklin.github.io/portafol.io386/index.xml" rel="self" type="application/rss+xml"/><item><title>A Classy Hugo Theme - Almeida CV</title><link>https://cristo-conklin.github.io/portafol.io386/portafolio/classy-cv/</link><pubDate>Thu, 03 Feb 2022 00:00:00 +0000</pubDate><guid>https://cristo-conklin.github.io/portafol.io386/portafolio/classy-cv/</guid><description>Almeida CV Theme
+Original theme.
+My version</description></item><item><title>acms</title><link>https://cristo-conklin.github.io/portafol.io386/portafolio/acms/</link><pubDate>Wed, 02 Feb 2022 00:00:00 +0000</pubDate><guid>https://cristo-conklin.github.io/portafol.io386/portafolio/acms/</guid><description>aCMS MIA - the ajax CMS w Bootstrap template (SEO compatible)
+github.</description></item><item><title>FlowGuru</title><link>https://cristo-conklin.github.io/portafol.io386/portafolio/flowman/</link><pubDate>Wed, 02 Feb 2022 00:00:00 +0000</pubDate><guid>https://cristo-conklin.github.io/portafol.io386/portafolio/flowman/</guid><description>flowman
 flowman.
-devpost entry</description>
-    </item>
-    
-    <item>
-      <title>namarea</title>
-      <link>https://cristo-conklin.github.io/portafol.io386/portafolio/namarea/</link>
-      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://cristo-conklin.github.io/portafol.io386/portafolio/namarea/</guid>
-      <description>namarea, ex escuela de surf gratis. Bastiagueiro, Miño, Sabón, Barrañán&amp;hellip;
-namarea.</description>
-    </item>
-    
-    <item>
-      <title>theAcroGuru</title>
-      <link>https://cristo-conklin.github.io/portafol.io386/portafolio/theacroguru/</link>
-      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://cristo-conklin.github.io/portafol.io386/portafolio/theacroguru/</guid>
-      <description>theAcroGuru
-theAcroGuru.</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://cristo-conklin.github.io/portafol.io386/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://cristo-conklin.github.io/portafol.io386/about/</guid>
-      <description>Blockchain BasicsBlockchain BasicsCourseraCoursera Expedición: ene. 2021 · Sin fecha de vencimientoExpedición: ene. 2021 · Sin fecha de vencimiento ID de la credencial AMXRZK8JAJRZID de la credencial AMXRZK8JAJRZ
-  
+devpost entry</description></item><item><title>namarea</title><link>https://cristo-conklin.github.io/portafol.io386/portafolio/namarea/</link><pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate><guid>https://cristo-conklin.github.io/portafol.io386/portafolio/namarea/</guid><description>namarea, ex escuela de surf gratis. Bastiagueiro, Miño, Sabón, Barrañán&amp;hellip;
+namarea.</description></item><item><title>theAcroGuru</title><link>https://cristo-conklin.github.io/portafol.io386/portafolio/theacroguru/</link><pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate><guid>https://cristo-conklin.github.io/portafol.io386/portafolio/theacroguru/</guid><description>theAcroGuru
+theAcroGuru.</description></item><item><title>About</title><link>https://cristo-conklin.github.io/portafol.io386/about/</link><pubDate>Fri, 28 Feb 1986 00:00:00 +0000</pubDate><guid>https://cristo-conklin.github.io/portafol.io386/about/</guid><description>Blockchain BasicsBlockchain BasicsCourseraCoursera Expedición: ene. 2021 · Sin fecha de vencimientoExpedición: ene. 2021 · Sin fecha de vencimiento ID de la credencial AMXRZK8JAJRZID de la credencial AMXRZK8JAJRZ
 Blockchain PlatformsBlockchain PlatformsCourseraCoursera Expedición: ene. 2021 · Sin fecha de vencimientoExpedición: ene. 2021 · Sin fecha de vencimiento ID de la credencial 3GEXLXFFABMLID de la credencial 3GEXLXFFABML
-  
-Blockchain SpecializationBlockchain SpecializationCourseraCoursera Expedición: ene. 2021 · Sin fecha de vencimientoExpedición: ene.</description>
-    </item>
-    
-  </channel>
-</rss>
+Blockchain SpecializationBlockchain SpecializationCourseraCoursera Expedición: ene. 2021 · Sin fecha de vencimientoExpedición: ene.</description></item></channel></rss>
