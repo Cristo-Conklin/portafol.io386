@@ -1,9 +1,83 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Portafolio on Portafolio in HUGO.386</title><link>https://cristo-conklin.github.io/portafol.io386/portafolio/</link><description>Recent content in Portafolio on Portafolio in HUGO.386</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 03 May 2022 13:35:33 +0200</lastBuildDate><atom:link href="https://cristo-conklin.github.io/portafol.io386/portafolio/index.xml" rel="self" type="application/rss+xml"/><item><title>Zenproject</title><link>https://cristo-conklin.github.io/portafol.io386/portafolio/zenproject/</link><pubDate>Tue, 03 May 2022 13:35:33 +0200</pubDate><guid>https://cristo-conklin.github.io/portafol.io386/portafolio/zenproject/</guid><description>Proyecto Zen es una web demo de iniciativa de asociación cooperativa humanista que favorece diversos intereses sociales.
-visit deploy at netlify</description></item><item><title>A Classy Hugo Theme - Almeida CV</title><link>https://cristo-conklin.github.io/portafol.io386/portafolio/classy-cv/</link><pubDate>Thu, 03 Feb 2022 00:00:00 +0000</pubDate><guid>https://cristo-conklin.github.io/portafol.io386/portafolio/classy-cv/</guid><description>Almeida CV Theme
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portafolio on Portafolio in HUGO.386</title>
+    <link>https://cristo-conklin.github.io/portafol.io386/portafolio/</link>
+    <description>Recent content in Portafolio on Portafolio in HUGO.386</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 04 May 2022 13:36:41 +0200</lastBuildDate><atom:link href="https://cristo-conklin.github.io/portafol.io386/portafolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cryptoshell</title>
+      <link>https://cristo-conklin.github.io/portafol.io386/portafolio/cryptoshell/</link>
+      <pubDate>Wed, 04 May 2022 13:36:41 +0200</pubDate>
+      
+      <guid>https://cristo-conklin.github.io/portafol.io386/portafolio/cryptoshell/</guid>
+      <description>Crypto-Shell
+cryptoshell.</description>
+    </item>
+    
+    <item>
+      <title>Zenproject</title>
+      <link>https://cristo-conklin.github.io/portafol.io386/portafolio/zenproject/</link>
+      <pubDate>Tue, 03 May 2022 13:35:33 +0200</pubDate>
+      
+      <guid>https://cristo-conklin.github.io/portafol.io386/portafolio/zenproject/</guid>
+      <description>Proyecto Zen es una web demo de iniciativa de asociación cooperativa humanista que favorece diversos intereses sociales.
+visit deploy at netlify</description>
+    </item>
+    
+    <item>
+      <title>A Classy Hugo Theme - Almeida CV</title>
+      <link>https://cristo-conklin.github.io/portafol.io386/portafolio/classy-cv/</link>
+      <pubDate>Thu, 03 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cristo-conklin.github.io/portafol.io386/portafolio/classy-cv/</guid>
+      <description>Almeida CV Theme
 Original theme.
-My version</description></item><item><title>acms</title><link>https://cristo-conklin.github.io/portafol.io386/portafolio/acms/</link><pubDate>Wed, 02 Feb 2022 00:00:00 +0000</pubDate><guid>https://cristo-conklin.github.io/portafol.io386/portafolio/acms/</guid><description>aCMS MIA - the ajax CMS w Bootstrap template (SEO compatible)
-github.</description></item><item><title>FlowGuru</title><link>https://cristo-conklin.github.io/portafol.io386/portafolio/flowman/</link><pubDate>Wed, 02 Feb 2022 00:00:00 +0000</pubDate><guid>https://cristo-conklin.github.io/portafol.io386/portafolio/flowman/</guid><description>flowman
+My version</description>
+    </item>
+    
+    <item>
+      <title>acms</title>
+      <link>https://cristo-conklin.github.io/portafol.io386/portafolio/acms/</link>
+      <pubDate>Wed, 02 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cristo-conklin.github.io/portafol.io386/portafolio/acms/</guid>
+      <description>aCMS MIA - the ajax CMS w Bootstrap template (SEO compatible)
+github.</description>
+    </item>
+    
+    <item>
+      <title>FlowGuru</title>
+      <link>https://cristo-conklin.github.io/portafol.io386/portafolio/flowman/</link>
+      <pubDate>Wed, 02 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cristo-conklin.github.io/portafol.io386/portafolio/flowman/</guid>
+      <description>flowman
 flowman.
-devpost entry</description></item><item><title>namarea</title><link>https://cristo-conklin.github.io/portafol.io386/portafolio/namarea/</link><pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate><guid>https://cristo-conklin.github.io/portafol.io386/portafolio/namarea/</guid><description>namarea, ex escuela de surf gratis. Bastiagueiro, Miño, Sabón, Barrañán&amp;hellip;
-namarea.</description></item><item><title>theAcroGuru</title><link>https://cristo-conklin.github.io/portafol.io386/portafolio/theacroguru/</link><pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate><guid>https://cristo-conklin.github.io/portafol.io386/portafolio/theacroguru/</guid><description>theAcroGuru
-theAcroGuru.</description></item></channel></rss>
+devpost entry</description>
+    </item>
+    
+    <item>
+      <title>namarea</title>
+      <link>https://cristo-conklin.github.io/portafol.io386/portafolio/namarea/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cristo-conklin.github.io/portafol.io386/portafolio/namarea/</guid>
+      <description>namarea, ex escuela de surf gratis. Bastiagueiro, Miño, Sabón, Barrañán&amp;hellip;
+namarea.</description>
+    </item>
+    
+    <item>
+      <title>theAcroGuru</title>
+      <link>https://cristo-conklin.github.io/portafol.io386/portafolio/theacroguru/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cristo-conklin.github.io/portafol.io386/portafolio/theacroguru/</guid>
+      <description>theAcroGuru
+theAcroGuru.</description>
+    </item>
+    
+  </channel>
+</rss>

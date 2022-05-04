@@ -1,4 +1,32 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>acroyoga on Portafolio in HUGO.386</title><link>https://cristo-conklin.github.io/portafol.io386/categories/acroyoga/</link><description>Recent content in acroyoga on Portafolio in HUGO.386</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 02 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://cristo-conklin.github.io/portafol.io386/categories/acroyoga/index.xml" rel="self" type="application/rss+xml"/><item><title>FlowGuru</title><link>https://cristo-conklin.github.io/portafol.io386/portafolio/flowman/</link><pubDate>Wed, 02 Feb 2022 00:00:00 +0000</pubDate><guid>https://cristo-conklin.github.io/portafol.io386/portafolio/flowman/</guid><description>flowman
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>acroyoga on Portafolio in HUGO.386</title>
+    <link>https://cristo-conklin.github.io/portafol.io386/categories/acroyoga/</link>
+    <description>Recent content in acroyoga on Portafolio in HUGO.386</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 02 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://cristo-conklin.github.io/portafol.io386/categories/acroyoga/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FlowGuru</title>
+      <link>https://cristo-conklin.github.io/portafol.io386/portafolio/flowman/</link>
+      <pubDate>Wed, 02 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cristo-conklin.github.io/portafol.io386/portafolio/flowman/</guid>
+      <description>flowman
 flowman.
-devpost entry</description></item><item><title>theAcroGuru</title><link>https://cristo-conklin.github.io/portafol.io386/portafolio/theacroguru/</link><pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate><guid>https://cristo-conklin.github.io/portafol.io386/portafolio/theacroguru/</guid><description>theAcroGuru
-theAcroGuru.</description></item></channel></rss>
+devpost entry</description>
+    </item>
+    
+    <item>
+      <title>theAcroGuru</title>
+      <link>https://cristo-conklin.github.io/portafol.io386/portafolio/theacroguru/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cristo-conklin.github.io/portafol.io386/portafolio/theacroguru/</guid>
+      <description>theAcroGuru
+theAcroGuru.</description>
+    </item>
+    
+  </channel>
+</rss>
